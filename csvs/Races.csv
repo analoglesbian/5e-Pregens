@@ -1,0 +1,19 @@
+,Dwarf (Hill),Dwarf (Mountain),Elf (High),Elf (Wood),Halfling (Lightfoot),Halfling (Stout),Human
+Str,,2,,,,,1
+Dex,,,2,2,2,2,1
+Con,2,2,,,,1,1
+Int,,,1,,,,1
+Wis,1,,,1,,,1
+Cha,,,,,1,,1
+,,,,,,,
+Speed,25,25,30,35,25,25,30
+Size,Medium ,Medium ,Medium ,Medium ,Small,Small,Medium
+Resistence,Poison,Poison,Charm,Charm,Fright,Fright,
+,,,,,,Poison,
+Proficiency,Stonework,Stonework,Perception,Perception,,,
+Proficiency,Dwarf Weapons,Dwarf Weapons,Elf Weapons,Elf Weapons,,,
+Proficiency,,Light Armor,,Hiding near Natural Objects,Hiding near Medium Creatures,,
+Proficiency,,Medium Armor,,,,,
+Ability,Darkvision,Darkvision,Darkvision,Darkvision,Lucky,,
+Ability,+1 HP,,Trance,Trance,,,
+Ability,,,Cantrip,,,,
