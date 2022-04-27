@@ -1,6 +1,5 @@
 ,Barbarian,Bard,Cleric,Druid,Fighter,Monk,Paladin,Ranger,Rogue,Sorcerer,Warlock,Wizard
 Hit Die,12,8,8,8,10,8,10,10,8,6,8,6
-,,,,,,,,,,,,
 Proficiency,Light Armor,Light Armor,Light Armor,Light Armor,Light Armor,,Light Armor,Light Armor,Light Armor,,Light Armor,
 Proficiency,Medium Armor,,Medium Armor,Medium Armor,Medium Armor,,Medium Armor,Medium Armor,,,,
 Proficiency,,,,,Heavy Armor,,Heavy Armor,,,,,
@@ -9,14 +8,11 @@ Proficiency,Simple Weapons,Simple Weapons,Simple Weapons,,Simple Weapons,Simple 
 Proficiency,Martial Weapons,,,,Martial Weapons,,Martial Weapons,Martial Weapons,,,,
 Proficiency,,Bard Weapons,,Druid Weapons,,Monk Weapons,,,Rogue Weapons,Sorcerer Weapons,,Wizard Weapons
 Skill,Str / Dex / Wis,Str / Dex / Con / Int / Wis / Cha,Int / Wis / Cha,Int / Wis,Str / Dex / Wis,Str / Dex / Int,Str / Wis / Cha,Str / Dex / Wis,Dex / Int / Wis / Cha,Int / Cha,Int / Cha,Int / Wis
-,,,,,,,,,,,,
 Saves,Str,Dex,Wis,Int,Str,Str,Wis,Str,Dex,Con,Wis,Int
 Saves,Con,Cha,Cha,Wis,Con,Dex,Cha,Dex,Int,Cha,Cha,Wis
-,,,,,,,,,,,,
 Ability,Rage,Inspiration,Domain,Druidic,Style,Martial Arts,Divine Sense,Favored Enemy,Expertise,Sorcerous Origin,Pact,Spellbook
 Ability,Unarmored Defense,,,,Second Wind,Unarmored Defense,Lay on Hands,Natural Explorer,Sneak Attack,,Patron,Arcane Recovery
 Ability,,,,,,,,,Thieves Cant,,,
-,,,,,,,,,,,,
 Spells,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
 Cantrips,,2,3,2,,,,,,4,2,3
 Spells,,4,Wis + 1,Wis + 1,,,,,,2,2,6
